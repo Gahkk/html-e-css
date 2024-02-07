@@ -1,5 +1,0 @@
-Imagem dinâmica: abra uma Tag PICTURE dentro dela a tag IMG como base, acima da tag IMG a tag SOURCE MEDIA TYPE, dentro dos parenteses coloque MAX-WIDTH: "tamanho em pixels da imagem + 50 px(pixels) dentro da tag SRCSET coloque o nome da pasta / nome do arquivo.
-Ex: SRCSET="imagens/imagem-p.png"
-na tag TYPE coloque na frente de "image/" o tipo de arquivo(png,jpeg,jpg,gif etc)
-
-ATENÇÃO: sempre que for montar essas imagns flexiveis use cima pra baixo do menor para o maior e lá em baixo a imagem como base, inicie com 750, ai vá para 1000 e assim por diante e no último a tag da imagem

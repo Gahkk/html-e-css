@@ -1,9 +1,0 @@
-Imagens responsivas
-
-Max-width
-Ex:max-width:300px;
-(Tudo que estiver acima de 300px carregara a imagem grande,se diminuir ou chegar a 300 px, carrega a imagem pequena)
-
-Min-width
-Ex:min-width:300px;
-(Tudo que estiver entre 1px e 299px carregara a imagem pequena,se ultrapassar os 300px carregara a imagem grande.)
